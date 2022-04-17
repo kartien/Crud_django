@@ -1,7 +1,12 @@
 .background{
     background-image: url("./background/back1.jpg");
+    background-repeat: no-repeat;
+    background-image: fixed;
+    background-image: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    background-position: top;
 }
 
 .title {
@@ -12,5 +17,5 @@
 }
 
 .title:hover{
-    color: red;
+    color: black;
 }
