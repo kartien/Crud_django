@@ -1,0 +1,16 @@
+.background{
+    background-image: url("./background/back1.jpg");
+    background-size: cover;
+    background-position: top;
+}
+
+.title {
+    color: white;
+    font-family: 'Eingrantch Mono', sans-serif;
+                                                
+                                                
+}
+
+.title:hover{
+    color: red;
+}
