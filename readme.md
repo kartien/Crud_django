@@ -31,3 +31,5 @@ DATABASES = {
     }
 }
 ```
+![Image](/docs/port.png)
+![Image](/docs/port3.png)
