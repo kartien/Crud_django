@@ -1,4 +1,6 @@
+# ignore all pycache
 __pycache__/
-
-venv/
-
+# ignore virtualenviroment
+env
+# ignore local basedata
+db.sqlite3
